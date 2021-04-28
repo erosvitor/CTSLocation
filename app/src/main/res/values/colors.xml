@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#259DCA</color>
+    <color name="colorPrimaryDark">#53889c</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorButton">#00aeef</color>
+
+    <color name="ic_ctslocation_background">#FFFFFF</color>
+</resources>
