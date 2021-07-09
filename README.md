@@ -1,8 +1,7 @@
 # CTSLocation
 
 ## Description
-
-The **CTSLocation** is an Android application that show coordinates and data about your location.
+Android application that show coordinates and data about your location.
 
 ## Screenshots
 
